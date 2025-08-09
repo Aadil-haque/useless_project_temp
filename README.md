@@ -1,47 +1,40 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# biscuit dunking system 🎯
 
 
-## Basic Details
-### Team Name: [Name]
+### Team Name: spambytes
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: aadil haque  - ICET
+- Member 2: farseena vj - ICET
 
-### Project Description
-[2-3 lines about what your project does]
+this project flips that delibretly predict how long you should dunk a biscuit in tea so it collapses.
+no real drinking hardwares are used. it is simulated based on the coustomized temprature and biscuit. 
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+nobody actually wants to ruin biscuit on purpose 
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+we need to dunk biscuit in tea for the exact wrong amount of time ,ensuring thay collapse into the cup and create maximum mess.
+this system uses customised temprature and biscuit choices and it analyse the amount of time it takes to collapse.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+-HTML , CSS
+- javascript
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
-# Installation
-[commands]
+# link 
+https://dunkmaster-ai.lovable.app/
 
 # Run
-[commands]
+html
 
 ### Project Documentation
 For Software:
